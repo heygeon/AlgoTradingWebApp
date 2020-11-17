@@ -8,10 +8,9 @@ from math import floor
 
 class Stock:
 
-    def __init__(self, stockName, period,):
+    def __init__(self, stockName, period=None, start=None, end=None):
         self.stockName = stockName
-        self.period = period
-        self.history = yf.Ticker(stockName).history(period=self.period)
+        self.history = yf.Ticker(stockName).history(period=period, start=start, end=end)
         self.date = self.history.index
         self.price = self.history["Close"]
         self.high = self.history["High"]

@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15edc756-f3a2-43be-8cf3-5748408ffdae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib.py" afterDir="false" />
+    <list default="true" id="15edc756-f3a2-43be-8cf3-5748408ffdae" name="Default Changelist" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/plot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +47,33 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\PycharmProjects\AlgoTradingWebApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lib">
+    <configuration name="lib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgoTradingWebApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AlgoTradingWebApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,6 +95,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lib" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -63,6 +113,169 @@
       <option name="presentableId" value="Default" />
       <updated>1605609274875</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1605609612913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609612913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1605609678248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609678248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated">
+      <created>1605609803329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609803329</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated">
+      <created>1605610490931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605610490931</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated">
+      <created>1605610523494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605610523494</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated">
+      <created>1605610581213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605610581213</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated">
+      <created>1605610754096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605610754096</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated">
+      <created>1605611158767</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605611158767</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated">
+      <created>1605611258183</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605611258183</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated">
+      <created>1605611940050</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605611940050</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated">
+      <created>1605612018104</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605612018104</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated">
+      <created>1605612362906</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605612362906</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated">
+      <created>1605612416275</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605612416275</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated">
+      <created>1605612767649</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605612767649</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated">
+      <created>1605613690563</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605613690563</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="216" key="FileChooserDialogImpl" timestamp="1605611415969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="216" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605611415969" />
+    <state x="785" y="392" key="Github.ShareDialog" timestamp="1605609308454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="392" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605609308454" />
+    <state x="694" y="157" key="Github.UntrackedFilesDialog" timestamp="1605609314897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="157" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605609314897" />
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1605623257731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623257731" />
+    <state width="1865" height="267" key="GridCell.Tab.0.center" timestamp="1605623257731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623257731" />
+    <state width="1865" height="267" key="GridCell.Tab.0.left" timestamp="1605623257731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623257731" />
+    <state width="1865" height="267" key="GridCell.Tab.0.right" timestamp="1605623257731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623257731" />
+    <state x="351" y="78" key="SettingsEditor" timestamp="1605611057548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="351" y="78" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605611057548" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1605613801393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605613801393" />
+    <state x="705" y="190" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605613744940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="190" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605613744940" />
   </component>
 </project>
