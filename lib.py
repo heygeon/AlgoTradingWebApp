@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import numpy as np
-from scipy.stats import pearsonr
+
 from math import floor
 
 
@@ -145,39 +145,4 @@ class Stock:
                 count += 1
                 hold = False
         return capital, count
-
-    def keyPointAlgo2(self):
-        self.keylist2 = [np.nan]
-        for i in range(1, len(self.day)):
-            if i == self.day:
-                break
-            if self.high[i] > self.price[i - 1] and self.low[i] < self.low[i - 1] and self.volume[i] > (2 *self.volume[i - 1]):
-                self.keylist2.append(self.price[i])
-            else:
-                self.keylist2.append(np.nan)
-
-    def keyPointAlgo3(self):
-        self.keylist3 = [np.nan]
-        for i in range(1, len(self.day)):
-            if i == self.day:
-                break
-            if self.high[i] < self.high[i - 1] and self.low[i] < self.low[i - 1] and self.volume[i] > 2*self.volume[i-1] and self.open[i] < self.open[i-1] and self.open[i] > self.price[i]:
-                self.keylist3.append(self.price[i])
-            else:
-                self.keylist3.append(np.nan)
-
-    """def percentr(self):
-        high = float()
-        low = float()
-        for i in range(self.date[i-14],self.date[i]):
-            if self.high[i-1]<self.high[i]:
-                high == self.high[i]
-            if self.low[i-1]>self.low[i]:
-                low == self.low[i]"""
-
-
-
-def corr(price1, price2):
-    corr = pearsonr(price1, price2)
-    return corr
 
