@@ -230,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605625526351</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Updated">
+      <created>1605666079177</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605666079177</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,10 +289,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="351" y="78" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623782815" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1605625527960">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1605666505774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605625527960" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605666505774" />
     <state x="705" y="190" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605623701434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
