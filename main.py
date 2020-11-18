@@ -17,10 +17,19 @@ with col2:
 tmr = dt.date.today()+dt.timedelta(days=1)
 
 with st.beta_container():
-    start_date = st.date_input("Starting Date")
-    end_date = st.date_input("Ending Date (Date of tmr for latest data)", value=tmr)
-    code = st.text_input("Stock Code:")
+    start_date = st.date_input("Starting Date:")
+    end_date = st.date_input("Ending Date (Date of tmr for latest data):", value=tmr)
+    col_market, col_code = st.beta_columns(2)
+    with col_market:
+        market = st.selectbox("Market:", options=["US", "HK"])
+    with col_code:
+        code = st.text_input("Stock Code:")
     #sma = st.slider("Select SMA", min_value=5, max_value=100)
+
+if market == "HK":
+    while len(code) < 4:
+        code = "0"+code
+    code += ".hk"
 
 stock = l.Stock(code, start=start_date, end=end_date)
 if st.button("Enter"):
