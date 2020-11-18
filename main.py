@@ -17,8 +17,7 @@ with col2:
 tmr = dt.date.today()+dt.timedelta(days=1)
 
 with st.beta_container():
-    start_date = st.date_input("Starting Date:")
-    end_date = st.date_input("Ending Date (Date of tmr for latest data):", value=tmr)
+    period = st.select_slider("Period:", options=["5d", "1mo", "3mo", "6mo", "1y", "2y", "5y", "10y", "max"])
     col_market, col_code = st.beta_columns(2)
     with col_market:
         market = st.selectbox("Market:", options=["US", "HK"])
@@ -31,7 +30,7 @@ if market == "HK":
         code = "0"+code
     code += ".hk"
 
-stock = l.Stock(code, start=start_date, end=end_date)
+stock = l.Stock(code, period=period)
 if st.button("Enter"):
 
 
