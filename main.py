@@ -3,12 +3,13 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import datetime as dt
 from idea import *
-
+from PIL import Image
 
 col1, col2, col3 = st.beta_columns(3)
 
 with col1:
-    st.image("resources\IDEAT Logo 50%.png")
+    image = Image.open("resources\IDEAT Logo 50%.png")
+    st.image(image)
 with col2:
     st.title("")
     st.title("Algo Trading Web App")
