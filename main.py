@@ -20,7 +20,7 @@ with st.beta_container():
     period = st.select_slider("Period:", options=["5d", "1mo", "3mo", "6mo", "1y", "2y", "5y", "10y", "max"])
     col_market, col_code = st.beta_columns(2)
     with col_market:
-        market = st.selectbox("Market:", options=["US", "HK"])
+        market = st.selectbox("Market:", options=["HK", "US"])
     with col_code:
         code = st.text_input("Stock Code:")
     #sma = st.slider("Select SMA", min_value=5, max_value=100)
