@@ -31,7 +31,6 @@ if market == "HK":
     code += ".hk"
 
 stock = l.Stock(code, period=period)
+
 if st.button("Enter"):
-
-
     st.pyplot(idea(stock))
