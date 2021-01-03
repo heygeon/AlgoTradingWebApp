@@ -92,7 +92,7 @@ def idea(stock):
     plt.plot(stock.day, stock.price, label = stock.stockName)
     plt.plot(stock.day, smalist, label = "wave",marker="^", color="black")
     plt.plot(stock.day, stock.sma(3), label = "SMA3", color="orange")
-    plt.plot(stock.day, stock.sma(50), label= "SMA6", color="purple")
+    plt.plot(stock.day, stock.sma(50), label= "SMA50", color="purple")
     #plt.plot(stock.day, top, label = "top",marker="^", color="black")
     #plt.plot(stock.day, bottom, label = "bottom",marker="^", color="black")
     plt.plot(stock.day, overb,label="sell",  marker="o", color="red")
