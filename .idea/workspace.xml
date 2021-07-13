@@ -368,65 +368,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="177" key="FileChooserDialogImpl" timestamp="1609656469009">
+    <state x="184" y="86" key="MergeDialog" timestamp="1626140907957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="176" y="177" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609656469009" />
-    <state x="785" y="392" key="Github.ShareDialog" timestamp="1605609308454">
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626140907957" />
+    <state x="481" y="215" key="MultipleFileMergeDialog" timestamp="1626140907962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="785" y="392" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605609308454" />
-    <state x="694" y="157" key="Github.UntrackedFilesDialog" timestamp="1605609314897">
+    <state x="481" y="215" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626140907962" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1626141095488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="694" y="157" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605609314897" />
-    <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1605845146891">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605845146891" />
-    <state width="1865" height="267" key="GridCell.Tab.0.center" timestamp="1605845146891">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605845146891" />
-    <state width="1865" height="267" key="GridCell.Tab.0.left" timestamp="1605845146891">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605845146891" />
-    <state width="1865" height="267" key="GridCell.Tab.0.right" timestamp="1605845146891">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605845146891" />
-    <state width="1865" height="331" key="GridCell.Tab.1.bottom" timestamp="1605698134375">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605698134375" />
-    <state width="1865" height="331" key="GridCell.Tab.1.center" timestamp="1605698134375">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="331" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605698134375" />
-    <state width="1865" height="331" key="GridCell.Tab.1.left" timestamp="1605698134375">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="331" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605698134375" />
-    <state width="1865" height="331" key="GridCell.Tab.1.right" timestamp="1605698134375">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="331" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605698134375" />
-    <state x="351" y="78" key="SettingsEditor" timestamp="1605623782815">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="351" y="78" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623782815" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1608303900152">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608303900152" />
-    <state x="705" y="190" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605623701434">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="705" y="190" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623701434" />
-    <state x="737" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605623661709">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="737" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605623661709" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626141095488" />
   </component>
 </project>
