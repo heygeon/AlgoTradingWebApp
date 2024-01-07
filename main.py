@@ -6,7 +6,7 @@ from idea import *
 from PIL import Image
 
 col1, col2, col3 = st.beta_columns(3)
-st.write("hi")
+
 with col1:
     image = Image.open("IDEAT Logo 50%.png")
     st.image(image)
